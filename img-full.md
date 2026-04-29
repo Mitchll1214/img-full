@@ -130,7 +130,7 @@ Help me generate an image: Three thousand Red Banner troops, in a Chinese-style 
 <img width="1915" height="821" alt="image" src="https://github.com/user-attachments/assets/ff2c2932-7d9d-4972-a824-2828fd5317ec" />
 
 ```
-KTV包厢环境，超宽屏21:9比例，多位女性身穿不同风格服装（如兔女郎装、猫主题服饰、改良旗袍等）,真实感拍摄，相机拍摄```
+KTV包厢环境，超宽屏21:9比例，多位女性身穿不同风格服装（如兔女郎装、猫主题服饰、改良旗袍等）,真实感拍摄，相机拍摄
 ```
 <img width="1915" height="821" alt="image" src="https://github.com/user-attachments/assets/a1cd4a23-0e24-4805-813b-41ef9efe5239" />
 --  
